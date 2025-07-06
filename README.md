@@ -13,3 +13,25 @@ Please visit these URLs to learn more:
 Please consider donating to the following organizations:
 
     https://www.runestone.org/
+
+Install from source
+-------------------
+
+See [BUILD.md](./BUILD.md) and [supported platforms](https://neovim.io/doc/user/support.html#supported-platforms) for details.
+
+The build is CMake-based, but a Makefile is provided as a convenience.
+After installing the dependencies, run the following command.
+
+    make CMAKE_BUILD_TYPE=RelWithDebInfo
+    sudo make install
+
+To install to a non-default location:
+
+    make CMAKE_BUILD_TYPE=RelWithDebInfo CMAKE_INSTALL_PREFIX=/full/path/
+    make install
+
+CMake hints for inspecting the build:
+
+- `cmake --build build --target help` lists all build targets.
+- `build/CMakeCache.txt` (or `cmake -LAH build/`) contains the resolved values of all CMake variables.
+- `build/compile_commands.json` shows the full compiler invocations for each translation unit.
