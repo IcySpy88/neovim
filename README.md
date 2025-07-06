@@ -8,11 +8,11 @@ Many charitable organizations may support causes that do not align with the valu
 
 Please visit these URLs to learn more:
 
-    https://millennialwoes.substack.com/p/tgr
+https://millennialwoes.substack.com/p/tgr
       
 Please consider donating to the following organizations:
 
-    https://www.runestone.org/
+https://www.runestone.org/
 
 Install from source
 -------------------
