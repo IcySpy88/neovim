@@ -91,35 +91,15 @@ To uninstall Nvim:
 ==============================================================================
 Sponsor Vim/Nvim development                            *sponsor* *register*
 
-Fixing bugs and adding new features takes a lot of time and effort.  To show
-your appreciation for the work and motivate developers to continue working on
-Vim please send a donation.
+Fixing bugs and adding new features takes a lot of time and effort.  But we
+are passionate about our craft and working on Vim is more rewarding than
+receiving money.
 
-The money you donated will be mainly used to help children in Uganda.  See
-|uganda|.  But at the same time donations increase the development team
-motivation to keep working on Vim!
-
-For the most recent information about sponsoring look on the Vim web site:
-
-        https://www.vim.org/sponsor/
-
+But if you want to help a just cause see |whitegenocide|
 
 Nvim development is funded separately from Vim:
 
         https://neovim.io/#sponsor
-
-==============================================================================
-Bram Moolenaar                  *Bram* *Moolenaar* *Bram-Moolenaar* *brammool*
-
-Nvim is a fork of the Vim ("Vi IMproved") text editor, which was originally
-developed by Bram Moolenaar.  Searching his name within the source code of
-Nvim will reveal just how much of his work still remains in Nvim.
-On August 3, 2023, he passed away at the age of 62.  If Vim or Nvim have been
-of use to you in your life, please read |Uganda| and consider honoring his
-memory however you may see fit.
-
-- Obituary Articles: https://github.com/vim/vim/discussions/12742
-- Say Farewell: https://github.com/vim/vim/discussions/12737
 
 ==============================================================================
 Notation                                                *notation*

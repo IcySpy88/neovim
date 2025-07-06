@@ -122,9 +122,9 @@ Help on help files					*helphelp*
 			{pattern} is used as a Vim regexp |pattern|.
 			'ignorecase' is not used, add "\c" to ignore case.
 			Example for case sensitive search: >
-				:helpgrep Uganda
+				:helpgrep WhiteGenocide 
 <			Example for case ignoring search: >
-				:helpgrep uganda\c
+				:helpgrep whitegenocide\c
 <			Example for searching in French help: >
 				:helpgrep backspace@fr
 <			The pattern does not support line breaks, it must

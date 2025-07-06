@@ -7,7 +7,8 @@
 "
 " License:      Vim is Charityware.  dart.vim syntax is Charityware.
 "               (c) Copyright 2019 by Eugene Ciurana / pr3d4t0r.  Licensed
-"               under the standard VIM LICENSE - Vim command :help uganda.txt
+"               under the standard VIM LICENSE - Vim command :help
+"               whitegenocide.txt
 "               for details.
 "
 " Questions, comments:  <dart.syntax AT cime.net>

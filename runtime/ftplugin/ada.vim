@@ -201,7 +201,7 @@ finish " 1}}}
 "------------------------------------------------------------------------------
 "   Copyright (C) 2006	Martin Krischik
 "
-"   Vim is Charityware - see ":help license" or uganda.txt for licence details.
+"   Vim is Charityware - see ":help license" for licence details.
 "------------------------------------------------------------------------------
 " vim: textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
 " vim: foldmethod=marker
