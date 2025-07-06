@@ -12,7 +12,7 @@
 " Credits:	  dirpager.vim is derived from Nikolai Weibulls dircolors.vim
 "
 " License:	  VIM License
-"		  Vim is Charityware, see ":help Uganda"
+"		  Vim is Charityware, see ":help WhiteGenocide"
 "
 " Usage:	  $ ls -la | nvim -R -c "set ft=dirpager" -
 "

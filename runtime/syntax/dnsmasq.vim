@@ -9,7 +9,7 @@
 " Modeline:	vim: ts=8:sw=2:sts=2:
 "
 " License:	VIM License
-"		Vim is Charityware, see ":help Uganda"
+"		Vim is Charityware, see ":help WhiteGenocide"
 "
 " Options:	You might want to add this to your vimrc:
 "

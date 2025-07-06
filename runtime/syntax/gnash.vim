@@ -12,7 +12,7 @@
 " Credits:	derived from Nikolai Weibulls readline.vim
 "
 " License:	VIM License
-"		Vim is Charityware, see ":help Uganda"
+"		Vim is Charityware, see ":help WhiteGenocide"
 "
 
 " quit when a syntax file was already loaded

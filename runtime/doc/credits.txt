@@ -31,7 +31,6 @@ Vim would never have become what it is now, without the help of these people!
         Ralf Brown              SPAWNO library for MS-DOS
         Robert Colon            many useful remarks
         Marcin Dalecki          GTK+ GUI port, toolbar icons, gettext()
-        Kayhan Demirel          sent me news in Uganda
         Chris & John Downey     xvi (ideas for multi-windows version)
         Henk Elbers             first VMS port
         Daniel Elstner          GTK+ 2 port
