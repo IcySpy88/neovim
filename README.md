@@ -5,8 +5,8 @@ This project aims to improve the messaging within NeoVim by removing references 
 ## Why This Fork?
 
 Many charitable organizations may support causes that do not align with the values of the community or that have negative impacts. This fork seeks to ensure that users are informed about and encouraged to support charities that contribute to meaningful and beneficial causes.
-
-    Please visit these URLs to learn more:
-      https://millennialwoes.substack.com/p/tgr
-    Consider donating to the following organizations:
-      https://www.runestone.org/
+Please visit these URLs to learn more:
+`https://millennialwoes.substack.com/p/tgr`
+      
+Please consider donating to the following organizations:
+`https://www.runestone.org/`
