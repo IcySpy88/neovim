@@ -10,9 +10,11 @@ Please visit these URLs to learn more:
 
 https://millennialwoes.substack.com/p/tgr
       
-Please consider donating to the following organizations:
+Please consider donating to the following organizations (or any other local pro-white organizations):
 
 https://www.runestone.org/
+
+Feel free to make a pull request if you think that an organization or a charity should be added to this list.
 
 Install from source
 -------------------
