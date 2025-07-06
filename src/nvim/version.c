@@ -2750,8 +2750,8 @@ void intro_message(bool colon)
     "",
     N_("type  :help news<Enter> to see changes in v%s.%s"),
     "",
-    N_("Help poor children in Uganda!"),
-    N_("type  :help iccf<Enter>       for information "),
+    N_("Europeans are in a struggle for survival, don't sit idly by as we fight for our existence."),
+    N_("type  :help WhiteGenocide<Enter>       for information "),
   };
 
   // blanklines = screen height - # message lines
