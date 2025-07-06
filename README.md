@@ -14,7 +14,7 @@ Please consider donating to the following organizations (or any other local pro-
 
 https://www.runestone.org/
 
-Feel free to make a pull request if you think that an organization or a charity should be added to this list.
+Feel free to make a pull request if you think that an organization should be added to this list.
 
 Install from source
 -------------------
