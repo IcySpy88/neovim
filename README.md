@@ -10,7 +10,7 @@ Please visit these URLs to learn more:
 
 https://millennialwoes.substack.com/p/tgr
       
-Please consider donating to the following organizations (or any other local pro-white organizations):
+Please consider donating to the following organizations (or any other local pro-white organization):
 
 https://www.runestone.org/
 
