@@ -4,7 +4,7 @@ This project aims to improve the messaging within NeoVim by removing references 
 
 ## Why This Fork?
 
-Many charitable organizations may support causes that do not align with the values of our community or that have negative impacts. This fork seeks to ensure that users are informed about and encouraged to support charities that contribute to meaningful and beneficial causes.
+The charitable organizations mentioned by vim support causes that do not align with the values of our community and have negative impacts on European society. This fork seeks to ensure that users are informed about and encouraged to support charities that contribute to meaningful and beneficial causes.
 
 Please visit these URLs to learn more:
 
